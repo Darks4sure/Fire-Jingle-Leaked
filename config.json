@@ -1,0 +1,17 @@
+{
+    "TOKEN": "MTMyMzg0ODg1MjA1MDE1MzU1Mw.Gcmpm3.jdv-XFne45UzGHbrLZVAdEtRGu-OaDv1DB1jUk",
+    "MONGO_DB": "mongodb+srv://SpaceMusic:shivamop@cluster0.kgvij.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+    "cooldown": true,
+    "owner": ["870991045008179210","203574366745657345","1198182281509081091"],
+    "admin": [
+        "870991045008179210",
+        "203574366745657345",
+        "1198182281509081091"
+    ],
+    "np": [
+        "870991045008179210",
+        "203574366745657345",
+        "1198182281509081091"
+    ],
+    "invite": "https://discord.com/oauth2/authorize?client_id=1245594544137961512&permissions=8&scope=bot+applications.commands"
+}
